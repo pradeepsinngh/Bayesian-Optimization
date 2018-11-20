@@ -13,3 +13,16 @@ The Bayesian strategy in optimization:
 * Use posteriro destribution to determines what the next query point should be.
 
 ## Acquisition functions:
+
+
+## Resource:
+* http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html
+* http://krasserm.github.io/2018/03/21/bayesian-optimization/
+* http://krasserm.github.io/2018/03/19/gaussian-processes/
+* https://github.com/krasserm/bayesian-machine-learning
+* https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f
+* 
+* https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
+*
+*
+
