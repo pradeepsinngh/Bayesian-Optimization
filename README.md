@@ -21,7 +21,7 @@ The Bayesian strategy in optimization:
 * http://krasserm.github.io/2018/03/19/gaussian-processes/
 * https://github.com/krasserm/bayesian-machine-learning
 * https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f
-* 
+* https://jmhessel.github.io/Bayesian-Optimization/
 * https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
 *
 *
