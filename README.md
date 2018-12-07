@@ -23,6 +23,5 @@ The Bayesian strategy in optimization:
 * https://towardsdatascience.com/a-conceptual-explanation-of-bayesian-model-based-hyperparameter-optimization-for-machine-learning-b8172278050f
 * https://jmhessel.github.io/Bayesian-Optimization/
 * https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
-*
-*
+
 
